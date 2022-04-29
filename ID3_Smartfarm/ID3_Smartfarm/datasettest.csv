@@ -1,0 +1,401 @@
+﻿bodemvochtigheid,luchtvochtigheid,tempratuur,lichtintesiteit,waternodig
+heel droog,heel droog,vriespunt,zeerdonker,true
+heel droog,heel droog,vriespunt,donker,true
+heel droog,heel droog,vriespunt,neutraal,true
+heel droog,heel droog,vriespunt,licht,true
+heel droog,heel droog,vriespunt,zeerlicht,true
+heel droog,heel droog,zeerkoud,zeerdonker,true
+heel droog,heel droog,zeerkoud,donker,true
+heel droog,heel droog,zeerkoud,neutraal,true
+heel droog,heel droog,zeerkoud,licht,true
+heel droog,heel droog,zeerkoud,zeerlicht,true
+heel droog,heel droog,koud,zeerdonker,true
+heel droog,heel droog,koud,donker,true
+heel droog,heel droog,koud,neutraal,true
+heel droog,heel droog,koud,licht,true
+heel droog,heel droog,koud,zeerlicht,true
+heel droog,heel droog,warm,zeerdonker,true
+heel droog,heel droog,warm,donker,true
+heel droog,heel droog,warm,neutraal,true
+heel droog,heel droog,warm,licht,true
+heel droog,heel droog,warm,zeerlicht,true
+heel droog,heel droog,tropisch,zeerdonker,true
+heel droog,heel droog,tropisch,donker,true
+heel droog,heel droog,tropisch,neutraal,true
+heel droog,heel droog,tropisch,licht,true
+heel droog,heel droog,tropisch,zeerlicht,true
+heel droog,droog,vriespunt,zeerdonker,true
+heel droog,droog,vriespunt,donker,true
+heel droog,droog,vriespunt,neutraal,true
+heel droog,droog,vriespunt,licht,true
+heel droog,droog,vriespunt,zeerlicht,true
+heel droog,droog,zeerkoud,zeerdonker,true
+heel droog,droog,zeerkoud,donker,true
+heel droog,droog,zeerkoud,neutraal,true
+heel droog,droog,zeerkoud,licht,true
+heel droog,droog,zeerkoud,zeerlicht,true
+heel droog,droog,koud,zeerdonker,true
+heel droog,droog,koud,donker,true
+heel droog,droog,koud,neutraal,true
+heel droog,droog,koud,licht,true
+heel droog,droog,koud,zeerlicht,true
+heel droog,droog,warm,zeerdonker,true
+heel droog,droog,warm,donker,true
+heel droog,droog,warm,neutraal,true
+heel droog,droog,warm,licht,true
+heel droog,droog,warm,zeerlicht,true
+heel droog,droog,tropisch,zeerdonker,true
+heel droog,droog,tropisch,donker,true
+heel droog,droog,tropisch,neutraal,true
+heel droog,droog,tropisch,licht,true
+heel droog,droog,tropisch,zeerlicht,true
+heel droog,nat,vriespunt,zeerdonker,true
+heel droog,nat,vriespunt,donker,true
+heel droog,nat,vriespunt,neutraal,true
+heel droog,nat,vriespunt,licht,true
+heel droog,nat,vriespunt,zeerlicht,true
+heel droog,nat,zeerkoud,zeerdonker,true
+heel droog,nat,zeerkoud,donker,true
+heel droog,nat,zeerkoud,neutraal,true
+heel droog,nat,zeerkoud,licht,true
+heel droog,nat,zeerkoud,zeerlicht,true
+heel droog,nat,koud,zeerdonker,true
+heel droog,nat,koud,donker,true
+heel droog,nat,koud,neutraal,true
+heel droog,nat,koud,licht,true
+heel droog,nat,koud,zeerlicht,true
+heel droog,nat,warm,zeerdonker,true
+heel droog,nat,warm,donker,true
+heel droog,nat,warm,neutraal,true
+heel droog,nat,warm,licht,true
+heel droog,nat,warm,zeerlicht,true
+heel droog,nat,tropisch,zeerdonker,true
+heel droog,nat,tropisch,donker,true
+heel droog,nat,tropisch,neutraal,true
+heel droog,nat,tropisch,licht,true
+heel droog,nat,tropisch,zeerlicht,true
+heel droog,zeernat,vriespunt,zeerdonker,true
+heel droog,zeernat,vriespunt,donker,true
+heel droog,zeernat,vriespunt,neutraal,true
+heel droog,zeernat,vriespunt,licht,true
+heel droog,zeernat,vriespunt,zeerlicht,true
+heel droog,zeernat,zeerkoud,zeerdonker,true
+heel droog,zeernat,zeerkoud,donker,true
+heel droog,zeernat,zeerkoud,neutraal,true
+heel droog,zeernat,zeerkoud,licht,true
+heel droog,zeernat,zeerkoud,zeerlicht,true
+heel droog,zeernat,koud,zeerdonker,true
+heel droog,zeernat,koud,donker,true
+heel droog,zeernat,koud,neutraal,true
+heel droog,zeernat,koud,licht,true
+heel droog,zeernat,koud,zeerlicht,true
+heel droog,zeernat,warm,zeerdonker,true
+heel droog,zeernat,warm,donker,true
+heel droog,zeernat,warm,neutraal,true
+heel droog,zeernat,warm,licht,true
+heel droog,zeernat,warm,zeerlicht,true
+heel droog,zeernat,tropisch,zeerdonker,true
+heel droog,zeernat,tropisch,donker,true
+heel droog,zeernat,tropisch,neutraal,true
+heel droog,zeernat,tropisch,licht,true
+heel droog,zeernat,tropisch,zeerlicht,true
+droog,heel droog,vriespunt,zeerdonker,true
+droog,heel droog,vriespunt,donker,true
+droog,heel droog,vriespunt,neutraal,true
+droog,heel droog,vriespunt,licht,true
+droog,heel droog,vriespunt,zeerlicht,true
+droog,heel droog,zeerkoud,zeerdonker,true
+droog,heel droog,zeerkoud,donker,true
+droog,heel droog,zeerkoud,neutraal,true
+droog,heel droog,zeerkoud,licht,true
+droog,heel droog,zeerkoud,zeerlicht,true
+droog,heel droog,koud,zeerdonker,true
+droog,heel droog,koud,donker,true
+droog,heel droog,koud,neutraal,true
+droog,heel droog,koud,licht,true
+droog,heel droog,koud,zeerlicht,true
+droog,heel droog,warm,zeerdonker,true
+droog,heel droog,warm,donker,true
+droog,heel droog,warm,neutraal,true
+droog,heel droog,warm,licht,true
+droog,heel droog,warm,zeerlicht,true
+droog,heel droog,tropisch,zeerdonker,true
+droog,heel droog,tropisch,donker,true
+droog,heel droog,tropisch,neutraal,true
+droog,heel droog,tropisch,licht,true
+droog,heel droog,tropisch,zeerlicht,true
+droog,droog,vriespunt,zeerdonker,false
+droog,droog,vriespunt,donker,false
+droog,droog,vriespunt,neutraal,false
+droog,droog,vriespunt,licht,true
+droog,droog,vriespunt,zeerlicht,true
+droog,droog,zeerkoud,zeerdonker,true
+droog,droog,zeerkoud,donker,true
+droog,droog,zeerkoud,neutraal,true
+droog,droog,zeerkoud,licht,true
+droog,droog,zeerkoud,zeerlicht,true
+droog,droog,koud,zeerdonker,true
+droog,droog,koud,donker,true
+droog,droog,koud,neutraal,true
+droog,droog,koud,licht,true
+droog,droog,koud,zeerlicht,true
+droog,droog,warm,zeerdonker,true
+droog,droog,warm,donker,true
+droog,droog,warm,neutraal,true
+droog,droog,warm,licht,true
+droog,droog,warm,zeerlicht,true
+droog,droog,tropisch,zeerdonker,true
+droog,droog,tropisch,donker,true
+droog,droog,tropisch,neutraal,true
+droog,droog,tropisch,licht,true
+droog,droog,tropisch,zeerlicht,true
+droog,nat,vriespunt,zeerdonker,false
+droog,nat,vriespunt,donker,false
+droog,nat,vriespunt,neutraal,false
+droog,nat,vriespunt,licht,false
+droog,nat,vriespunt,zeerlicht,true
+droog,nat,zeerkoud,zeerdonker,false
+droog,nat,zeerkoud,donker,false
+droog,nat,zeerkoud,neutraal,true
+droog,nat,zeerkoud,licht,true
+droog,nat,zeerkoud,zeerlicht,true
+droog,nat,koud,zeerdonker,false
+droog,nat,koud,donker,false
+droog,nat,koud,neutraal,true
+droog,nat,koud,licht,true
+droog,nat,koud,zeerlicht,true
+droog,nat,warm,zeerdonker,true
+droog,nat,warm,donker,true
+droog,nat,warm,neutraal,true
+droog,nat,warm,licht,true
+droog,nat,warm,zeerlicht,true
+droog,nat,tropisch,zeerdonker,true
+droog,nat,tropisch,donker,true
+droog,nat,tropisch,neutraal,true
+droog,nat,tropisch,licht,true
+droog,nat,tropisch,zeerlicht,true
+droog,zeernat,vriespunt,zeerdonker,false
+droog,zeernat,vriespunt,donker,false
+droog,zeernat,vriespunt,neutraal,false
+droog,zeernat,vriespunt,licht,false
+droog,zeernat,vriespunt,zeerlicht,false
+droog,zeernat,zeerkoud,zeerdonker,false
+droog,zeernat,zeerkoud,donker,false
+droog,zeernat,zeerkoud,neutraal,true
+droog,zeernat,zeerkoud,licht,true
+droog,zeernat,zeerkoud,zeerlicht,true
+droog,zeernat,koud,zeerdonker,false
+droog,zeernat,koud,donker,false
+droog,zeernat,koud,neutraal,true
+droog,zeernat,koud,licht,true
+droog,zeernat,koud,zeerlicht,true
+droog,zeernat,warm,zeerdonker,true
+droog,zeernat,warm,donker,true
+droog,zeernat,warm,neutraal,true
+droog,zeernat,warm,licht,true
+droog,zeernat,warm,zeerlicht,true
+droog,zeernat,tropisch,zeerdonker,true
+droog,zeernat,tropisch,donker,true
+droog,zeernat,tropisch,neutraal,true
+droog,zeernat,tropisch,licht,true
+droog,zeernat,tropisch,zeerlicht,true
+nat,heel droog,vriespunt,zeerdonker,false
+nat,heel droog,vriespunt,donker,false
+nat,heel droog,vriespunt,neutraal,false
+nat,heel droog,vriespunt,licht,false
+nat,heel droog,vriespunt,zeerlicht,false
+nat,heel droog,zeerkoud,zeerdonker,false
+nat,heel droog,zeerkoud,donker,false
+nat,heel droog,zeerkoud,neutraal,false
+nat,heel droog,zeerkoud,licht,false
+nat,heel droog,zeerkoud,zeerlicht,false
+nat,heel droog,koud,zeerdonker,false
+nat,heel droog,koud,donker,false
+nat,heel droog,koud,neutraal,false
+nat,heel droog,koud,licht,false
+nat,heel droog,koud,zeerlicht,false
+nat,heel droog,warm,zeerdonker,false
+nat,heel droog,warm,donker,false
+nat,heel droog,warm,neutraal,false
+nat,heel droog,warm,licht,false
+nat,heel droog,warm,zeerlicht,false
+nat,heel droog,tropisch,zeerdonker,false
+nat,heel droog,tropisch,donker,false
+nat,heel droog,tropisch,neutraal,false
+nat,heel droog,tropisch,licht,false
+nat,heel droog,tropisch,zeerlicht,false
+nat,droog,vriespunt,zeerdonker,false
+nat,droog,vriespunt,donker,false
+nat,droog,vriespunt,neutraal,false
+nat,droog,vriespunt,licht,false
+nat,droog,vriespunt,zeerlicht,false
+nat,droog,zeerkoud,zeerdonker,false
+nat,droog,zeerkoud,donker,false
+nat,droog,zeerkoud,neutraal,false
+nat,droog,zeerkoud,licht,false
+nat,droog,zeerkoud,zeerlicht,false
+nat,droog,koud,zeerdonker,false
+nat,droog,koud,donker,false
+nat,droog,koud,neutraal,false
+nat,droog,koud,licht,false
+nat,droog,koud,zeerlicht,false
+nat,droog,warm,zeerdonker,false
+nat,droog,warm,donker,false
+nat,droog,warm,neutraal,false
+nat,droog,warm,licht,false
+nat,droog,warm,zeerlicht,false
+nat,droog,tropisch,zeerdonker,false
+nat,droog,tropisch,donker,false
+nat,droog,tropisch,neutraal,false
+nat,droog,tropisch,licht,false
+nat,droog,tropisch,zeerlicht,false
+nat,nat,vriespunt,zeerdonker,false
+nat,nat,vriespunt,donker,false
+nat,nat,vriespunt,neutraal,false
+nat,nat,vriespunt,licht,false
+nat,nat,vriespunt,zeerlicht,false
+nat,nat,zeerkoud,zeerdonker,false
+nat,nat,zeerkoud,donker,false
+nat,nat,zeerkoud,neutraal,false
+nat,nat,zeerkoud,licht,false
+nat,nat,zeerkoud,zeerlicht,false
+nat,nat,koud,zeerdonker,false
+nat,nat,koud,donker,false
+nat,nat,koud,neutraal,false
+nat,nat,koud,licht,false
+nat,nat,koud,zeerlicht,false
+nat,nat,warm,zeerdonker,false
+nat,nat,warm,donker,false
+nat,nat,warm,neutraal,false
+nat,nat,warm,licht,false
+nat,nat,warm,zeerlicht,false
+nat,nat,tropisch,zeerdonker,false
+nat,nat,tropisch,donker,false
+nat,nat,tropisch,neutraal,false
+nat,nat,tropisch,licht,false
+nat,nat,tropisch,zeerlicht,false
+nat,zeernat,vriespunt,zeerdonker,false
+nat,zeernat,vriespunt,donker,false
+nat,zeernat,vriespunt,neutraal,false
+nat,zeernat,vriespunt,licht,false
+nat,zeernat,vriespunt,zeerlicht,false
+nat,zeernat,zeerkoud,zeerdonker,false
+nat,zeernat,zeerkoud,donker,false
+nat,zeernat,zeerkoud,neutraal,false
+nat,zeernat,zeerkoud,licht,false
+nat,zeernat,zeerkoud,zeerlicht,false
+nat,zeernat,koud,zeerdonker,false
+nat,zeernat,koud,donker,false
+nat,zeernat,koud,neutraal,false
+nat,zeernat,koud,licht,false
+nat,zeernat,koud,zeerlicht,false
+nat,zeernat,warm,zeerdonker,false
+nat,zeernat,warm,donker,false
+nat,zeernat,warm,neutraal,false
+nat,zeernat,warm,licht,false
+nat,zeernat,warm,zeerlicht,false
+nat,zeernat,tropisch,zeerdonker,false
+nat,zeernat,tropisch,donker,false
+nat,zeernat,tropisch,neutraal,false
+nat,zeernat,tropisch,licht,false
+nat,zeernat,tropisch,zeerlicht,false
+zeernat,heel droog,vriespunt,zeerdonker,false
+zeernat,heel droog,vriespunt,donker,false
+zeernat,heel droog,vriespunt,neutraal,false
+zeernat,heel droog,vriespunt,licht,false
+zeernat,heel droog,vriespunt,zeerlicht,false
+zeernat,heel droog,zeerkoud,zeerdonker,false
+zeernat,heel droog,zeerkoud,donker,false
+zeernat,heel droog,zeerkoud,neutraal,false
+zeernat,heel droog,zeerkoud,licht,false
+zeernat,heel droog,zeerkoud,zeerlicht,false
+zeernat,heel droog,koud,zeerdonker,false
+zeernat,heel droog,koud,donker,false
+zeernat,heel droog,koud,neutraal,false
+zeernat,heel droog,koud,licht,false
+zeernat,heel droog,koud,zeerlicht,false
+zeernat,heel droog,warm,zeerdonker,false
+zeernat,heel droog,warm,donker,false
+zeernat,heel droog,warm,neutraal,false
+zeernat,heel droog,warm,licht,false
+zeernat,heel droog,warm,zeerlicht,false
+zeernat,heel droog,tropisch,zeerdonker,false
+zeernat,heel droog,tropisch,donker,false
+zeernat,heel droog,tropisch,neutraal,false
+zeernat,heel droog,tropisch,licht,false
+zeernat,heel droog,tropisch,zeerlicht,false
+zeernat,droog,vriespunt,zeerdonker,false
+zeernat,droog,vriespunt,donker,false
+zeernat,droog,vriespunt,neutraal,false
+zeernat,droog,vriespunt,licht,false
+zeernat,droog,vriespunt,zeerlicht,false
+zeernat,droog,zeerkoud,zeerdonker,false
+zeernat,droog,zeerkoud,donker,false
+zeernat,droog,zeerkoud,neutraal,false
+zeernat,droog,zeerkoud,licht,false
+zeernat,droog,zeerkoud,zeerlicht,false
+zeernat,droog,koud,zeerdonker,false
+zeernat,droog,koud,donker,false
+zeernat,droog,koud,neutraal,false
+zeernat,droog,koud,licht,false
+zeernat,droog,koud,zeerlicht,false
+zeernat,droog,warm,zeerdonker,false
+zeernat,droog,warm,donker,false
+zeernat,droog,warm,neutraal,false
+zeernat,droog,warm,licht,false
+zeernat,droog,warm,zeerlicht,false
+zeernat,droog,tropisch,zeerdonker,false
+zeernat,droog,tropisch,donker,false
+zeernat,droog,tropisch,neutraal,false
+zeernat,droog,tropisch,licht,false
+zeernat,droog,tropisch,zeerlicht,false
+zeernat,nat,vriespunt,zeerdonker,false
+zeernat,nat,vriespunt,donker,false
+zeernat,nat,vriespunt,neutraal,false
+zeernat,nat,vriespunt,licht,false
+zeernat,nat,vriespunt,zeerlicht,false
+zeernat,nat,zeerkoud,zeerdonker,false
+zeernat,nat,zeerkoud,donker,false
+zeernat,nat,zeerkoud,neutraal,false
+zeernat,nat,zeerkoud,licht,false
+zeernat,nat,zeerkoud,zeerlicht,false
+zeernat,nat,koud,zeerdonker,false
+zeernat,nat,koud,donker,false
+zeernat,nat,koud,neutraal,false
+zeernat,nat,koud,licht,false
+zeernat,nat,koud,zeerlicht,false
+zeernat,nat,warm,zeerdonker,false
+zeernat,nat,warm,donker,false
+zeernat,nat,warm,neutraal,false
+zeernat,nat,warm,licht,false
+zeernat,nat,warm,zeerlicht,false
+zeernat,nat,tropisch,zeerdonker,false
+zeernat,nat,tropisch,donker,false
+zeernat,nat,tropisch,neutraal,false
+zeernat,nat,tropisch,licht,false
+zeernat,nat,tropisch,zeerlicht,false
+zeernat,zeernat,vriespunt,zeerdonker,false
+zeernat,zeernat,vriespunt,donker,false
+zeernat,zeernat,vriespunt,neutraal,false
+zeernat,zeernat,vriespunt,licht,false
+zeernat,zeernat,vriespunt,zeerlicht,false
+zeernat,zeernat,zeerkoud,zeerdonker,false
+zeernat,zeernat,zeerkoud,donker,false
+zeernat,zeernat,zeerkoud,neutraal,false
+zeernat,zeernat,zeerkoud,licht,false
+zeernat,zeernat,zeerkoud,zeerlicht,false
+zeernat,zeernat,koud,zeerdonker,false
+zeernat,zeernat,koud,donker,false
+zeernat,zeernat,koud,neutraal,false
+zeernat,zeernat,koud,licht,false
+zeernat,zeernat,koud,zeerlicht,false
+zeernat,zeernat,warm,zeerdonker,false
+zeernat,zeernat,warm,donker,false
+zeernat,zeernat,warm,neutraal,false
+zeernat,zeernat,warm,licht,false
+zeernat,zeernat,warm,zeerlicht,false
+zeernat,zeernat,tropisch,zeerdonker,false
+zeernat,zeernat,tropisch,donker,false
+zeernat,zeernat,tropisch,neutraal,false
+zeernat,zeernat,tropisch,licht,false
+zeernat,zeernat,tropisch,zeerlicht,false
