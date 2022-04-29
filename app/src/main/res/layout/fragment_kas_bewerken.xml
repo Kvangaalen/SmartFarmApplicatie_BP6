@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+tools:context=".controller.ui.kas.KasToevoegenFragment">
+
+<TextView
+    android:id="@+id/Header"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Kas bewerken:"
+    android:textSize="33dp"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintVertical_bias="0.037" />
+
+<EditText
+    android:id="@+id/etKasNaamBewerken"
+    android:layout_width="300dp"
+    android:layout_height="50dp"
+    android:hint="Kas naam"
+    android:textSize="18dp"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_bias="0.486"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintVertical_bias="0.126" />
+
+<EditText
+    android:id="@+id/etStraat"
+    android:layout_width="300dp"
+    android:layout_height="50dp"
+    android:hint="Straat naam"
+    android:textSize="18dp"
+   android:inputType="none"
+    android:focusable="false"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_bias="0.486"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintVertical_bias="0.215" />
+
+<EditText
+    android:id="@+id/etHuisnummer"
+    android:layout_width="300dp"
+    android:layout_height="50dp"
+    android:hint="huisnummer + toevoeging"
+    android:textSize="18dp"
+    android:inputType="none"
+    android:focusable="false"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_bias="0.486"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintVertical_bias="0.306" />
+
+<EditText
+    android:id="@+id/etPlaats"
+    android:layout_width="300dp"
+    android:layout_height="50dp"
+    android:hint="Plaats naam"
+    android:textSize="18dp"
+    android:inputType="none"
+    android:focusable="false"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_bias="0.486"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintVertical_bias="0.389" />
+
+<EditText
+    android:id="@+id/etPostcode"
+    android:layout_width="300dp"
+    android:layout_height="50dp"
+    android:hint="Postcode"
+    android:textSize="18dp"
+    android:inputType="none"
+    android:focusable="false"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_bias="0.486"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintVertical_bias="0.462" />
+
+<Button
+    android:id="@+id/updateKas"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Bewerk"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_bias="0.498"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintVertical_bias="0.847" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

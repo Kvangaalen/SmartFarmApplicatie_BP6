@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Dashboard"
+            android:icon="@drawable/ic_ic_dashboard"
+            android:title="@string/menu_Dashboard" />
+        <item
+            android:id="@+id/nav_Apparaatbeheer"
+            android:icon="@drawable/ic_apparaat_icon"
+            android:title="@string/menu_Apparaatbeheer" />
+        <item
+            android:id="@+id/nav_Kasbeheer"
+            android:icon="@drawable/ic__kas_icon"
+            android:title="@string/menu_Kasbeheer" />
+        <item
+            android:id="@+id/nav_Plantbeheer"
+            android:icon="@drawable/ic_plant"
+            android:title="@string/menu_Plantbeheer" />
+
+    </group>
+</menu>

@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">SmartFarm_App</string>
+    <string name="Aanmelden">Aanmelden</string>
+    <string name="Inloggen">Inloggen</string>
+    <string name="title_activity_user_menu">UserMenu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="acountbeheer_settings">Acount beheer</string>
+
+    <string name="menu_Dashboard">Dashboard</string>
+    <string name="menu_Apparaatbeheer">Apparaat beheer</string>
+    <string name="menu_Kasbeheer">Kas beheer</string>
+    <string name="menu_Plantbeheer">Plant beheer</string>
+    <string name="menu_ApparaatToevoegen">Toevoegen apparaat</string>
+    <string name="menu_ApparaatBewerken">Bewerken apparaat</string>
+    <string name="menu_Acountbeheer">Acount beheer</string>
+    <string name="Sing_Out">Uitloggen</string>
+
+    <string name="MSG_Passed_addApparaat">Apparaat is toegevoegd</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Categorie_array">
+        <item>gemetentempratuur</item>
+        <item>gemetenluchtvochtigheid</item>
+        <item>gemetenbodemvochtigheid</item>
+        <item>gemetenlux</item>
+    </string-array>
+</resources>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_Dashboard">
+
+    <fragment
+        android:id="@+id/nav_Dashboard"
+        android:name="com.example.smartfarm_app.controller.ui.dashboard.DashboardFragment"
+        android:label="@string/menu_Dashboard"
+        tools:layout="@layout/fragment_dashboard" >
+        <action
+            android:id="@+id/action_nav_Dashboard_to_nav_Acountbeheer"
+            app:destination="@id/nav_Acountbeheer" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_Apparaatbeheer"
+        android:name="com.example.smartfarm_app.controller.ui.apparaat.ApparaatbeheerFragment"
+        android:label="@string/menu_Apparaatbeheer"
+        tools:layout="@layout/fragment_apparaatbeheer" >
+        <action
+            android:id="@+id/action_nav_Apparaatbeheer_to_nav_ApparaatToevoegen"
+            app:destination="@id/nav_ApparaatToevoegen" />
+        <action
+            android:id="@+id/action_nav_Apparaatbeheer_to_nav_ApparaatBewerken"
+            app:destination="@id/nav_ApparaatBewerken" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_Kasbeheer"
+        android:name="com.example.smartfarm_app.controller.ui.kas.KasbeheerFragment"
+        android:label="@string/menu_Kasbeheer"
+        tools:layout="@layout/fragment_kasbeheer" >
+        <action
+            android:id="@+id/action_nav_Kasbeheer_to_nav_kasToevoegen"
+            app:destination="@id/nav_kasToevoegen" />
+        <action
+            android:id="@+id/action_nav_Kasbeheer_self"
+            app:destination="@id/nav_Kasbeheer" />
+        <action
+            android:id="@+id/action_nav_Kasbeheer_to_nav_KasBewerken"
+            app:destination="@id/nav_KasBewerken" />
+        <action
+            android:id="@+id/action_nav_Kasbeheer_to_nav_OverzichtGewassen"
+            app:destination="@id/nav_OverzichtGewassen" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_KasBewerken"
+        android:name="com.example.smartfarm_app.controller.ui.kas.KasBewerkenFragment"
+        android:label="Kasbewerken"
+        tools:layout="@layout/fragment_kas_bewerken" >
+        <action
+            android:id="@+id/action_nav_KasBewerken_to_nav_Kasbeheer"
+            app:destination="@id/nav_Kasbeheer" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_OverzichtGewassen"
+        android:name="com.example.smartfarm_app.controller.ui.KasPlant.OverzichtGewassenFragment"
+        android:label="Overzicht Gewassen"
+        tools:layout="@layout/fragment_overzicht_gewassen" >
+
+        <action
+            android:id="@+id/action_nav_OverzichtGewassen_to_nav_PlantAanKasToevoegen"
+            app:destination="@id/nav_PlantAanKasToevoegen" />
+        <action
+            android:id="@+id/action_nav_OverzichtGewassen_self"
+            app:destination="@id/nav_OverzichtGewassen" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_kasToevoegen"
+        android:name="com.example.smartfarm_app.controller.ui.kas.KasToevoegenFragment"
+        android:label="kasToevoegen"
+        tools:layout="@layout/fragment_kas_toevoegen" >
+        <action
+            android:id="@+id/action_nav_kasToevoegen_to_nav_Kasbeheer"
+            app:destination="@id/nav_Kasbeheer" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_Acountbeheer"
+        android:name="com.example.smartfarm_app.controller.ui.account.AcountbeheerFragment"
+        android:label="@string/menu_Acountbeheer"
+        tools:layout="@layout/fragment_acountbeheer" />
+    <fragment
+        android:id="@+id/nav_Plantbeheer"
+        android:name="com.example.smartfarm_app.controller.ui.plant.PlantbeheerFragment"
+        android:label="@string/menu_Plantbeheer"
+        tools:layout="@layout/fragment_plantbeheer" >
+    <action
+        android:id="@+id/action_nav_PlantBeheer_to_nav_plantToevoegen"
+        app:destination="@id/nav_plantToevoegen" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/nav_ApparaatToevoegen"
+        android:name="com.example.smartfarm_app.controller.ui.apparaat.ToevoegenAparaatFragment"
+        android:label="@string/menu_ApparaatToevoegen"
+        tools:layout="@layout/fragment_toevoegen_aparaat" />
+
+    <fragment
+        android:id="@+id/nav_ApparaatBewerken"
+        android:name="com.example.smartfarm_app.controller.ui.apparaat.bewerkenAparaatFragment"
+        android:label="@string/menu_ApparaatBewerken"
+        tools:layout="@layout/fragment_bewerken_aparaat" />
+
+    <fragment
+        android:id="@+id/nav_plantToevoegen"
+        android:name="com.example.smartfarm_app.controller.ui.plant.PlantToevoegenFragment"
+        android:label="Toevoegen plant"
+        tools:layout="@layout/fragment_plant_toevoegen" />
+
+    <fragment
+        android:id="@+id/nav_PlantAanKasToevoegen"
+        android:name="com.example.smartfarm_app.controller.ui.KasPlant.PlantAanKasToevoegenFragment"
+        android:label="Plant aan kas toevoegen"
+        tools:layout= "@layout/fragment_plant_aan_kas_toevoegen"
+        />
+
+</navigation>
